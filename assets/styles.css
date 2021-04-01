@@ -1,0 +1,45 @@
+.naveg{
+    position: relative;
+    left: 25%;
+    bottom: 54px;
+}
+
+.banner{
+    margin: 50px;
+    background-color: #ffd401;
+}
+
+.banner img{
+  position: relative;
+  left:30%;
+  width: 40%;
+  height: 40%;
+}
+
+.principal{
+    display: inline-flex;
+    position: relative;
+    left: 160px;
+}
+
+.receta{
+    padding: 10px 30px;
+    text-align: center;
+    border: 1px solid grey;
+    margin-left: 10px;
+    margin-right: 10px;
+    box-sizing: border-box; 
+}
+
+
+h2{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    text-transform: uppercase;
+    font-size: medium;
+}
+
+
+p{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size: medium;
+}

@@ -1,3 +1,9 @@
+.naveg{
+    position: relative;
+    left: 25%;
+    bottom: 54px;
+}
+
 body{
     font-family: Arial, Helvetica, sans-serif;
     color: #444444;
