@@ -25,14 +25,24 @@
   height: 40%;
 }
 
+footer{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size: small;
+    text-align: center;
+
+
+
+}
+
 .principal{
     display: inline-flex;
     position: relative;
-    left: 160px;
+    left: 145px;
 }
 
+
 .receta{
-    padding: 10px 30px;
+    padding: 20px 30px 10px 30px;
     text-align: center;
     border: 1px solid grey;
     margin-left: 10px;
