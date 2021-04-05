@@ -100,3 +100,7 @@ h3{
     font-family: 'Ubuntu Condensed', sans-serif;
     font-size: medium;
 }
+
+.centrado {
+    text-align: center;
+}
