@@ -100,5 +100,6 @@ h3{
 /* Estilo Imagenes */
 
 .posocionImagenes {
+    padding: 10px;
     text-align: center;
 }
