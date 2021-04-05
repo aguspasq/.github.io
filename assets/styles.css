@@ -28,10 +28,7 @@
 footer{
     font-family: 'Ubuntu Condensed', sans-serif;
     font-size: small;
-    text-align: center;
-    
-
-
+    text-align: center;   
 
 }
 
@@ -100,7 +97,8 @@ h3{
     font-family: 'Ubuntu Condensed', sans-serif;
     font-size: medium;
 }
+/* Estilo Imagenes */
 
-.centrado {
+.posocionImagenes {
     text-align: center;
 }
